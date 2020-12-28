@@ -49,3 +49,15 @@ ________
 | Sushi ga suki desu ka? = Do (you) like sushi?
 
 
+Describing Something
+--------------------
+The structure for describing something in Japansee is:
+
+| <noun> wa <adjective>.
+| <noun> ga <adjective>.
+
+Here are some examples:
+| Yamada-san ga yasashii desu. = Yamanda is kind
+| Yamada-san wa omoshiroi desu. = Yamada is funny
+
+(For the diffrence between wa and ga read the chapter :ref:`Wa vs Ga <wa-vs-ga>`)
