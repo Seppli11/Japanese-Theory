@@ -20,3 +20,23 @@ iki       ikimasu         ikimasen        gehen
 tabe      tabemasu        tabemasen       essen
 shi       shimasu         shimasen        do / play
 ========= =============== =============== ===========
+
+
+Shimasu-Verbs
+-------------
+With the "verb" ``shimasu`` you can turn a noun into a verb.
+
+| benkyo = study
+| benkyo shimasu = to study
+| renshu = practice
+| renshu shimasu = to practice
+| ryori = cooking
+| ryori shimasu = to cook
+
+This can't be done with every noun. Here is an (incomplete) list:
+
++ benkyo = study
++ ryoko = vacation / trip / travel
++ denwa = phone / call
++ renshu = practice
++ ryori = cooking / cuisine

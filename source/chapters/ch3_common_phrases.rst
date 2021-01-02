@@ -61,3 +61,18 @@ Here are some examples:
 | Yamada-san wa omoshiroi desu. = Yamada is funny
 
 (For the diffrence between wa and ga read the chapter :ref:`Wa vs Ga <wa-vs-ga>`)
+
+Where are you formal
+--------------------
+
+| Amerika kara kimashita. = (I am) from America.
+| <place> kara kimashita. = (I am) from <place>.
+| Amerika kara kimashita ka? = (Are you) from America?
+| Doko kara kimashita ka? = Where (are you) from?
+
+``kara`` from "kara kimashita" is a particle and means ``from``. ``kimashita`` is the verb "to come"
+in the past tense. Together they mean "came from".
+By adding the ``ka`` at the end, you make it a question.
+And finally the ``doko`` means where.
+
+The (I am) are in parenthesises because they are inferred from the context of the conversation.

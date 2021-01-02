@@ -70,6 +70,32 @@ Here are a  few examples:
 
 Ni Particle
 -----------
+``ni`` is known as the location particle and can be loosely translated to "in", "on", "at" or "to" depending
+on the usage. It's important to remember that its usage isn't always the same as in english.
+
+``ni`` is often used together with a verb of motion, like "come", "go" or "walk" in a structure like
+``<noun> ni <verb of motion>``
+
+Show a destination
+__________________
+``ni`` can be used to show a destination.
+
+| Eki ni ikimasu. = (I will) go to the train station.
+| Densha ni norimasu. = (I will) ride the train.
+| Hon op kaban ni iremasu. = (I will) put the book in (my) bag.
+
+A Point of Contatct
+___________________
+With ``ni`` you can also show a point of contact with an other person.
+
+| Tomodachi ni denwa shimasu. = (I) will call (my) friend.
+| Raishu kazoku ni aimasu. = (I will) meet (my) famaly next week.
+
+Mark the Time
+_____________
+You can also mark the time in a sentence, as long it isn't a relative time pronoun, like "now" or "tomorrow".
+
+| Shichi-ji ni ikimasu = (I will) go at seven o'clock
 
 To and Ya
 ---------
@@ -111,7 +137,7 @@ But ``mo`` is used after every object/noun in the list.
 
 But (or) However
 ----------------
-"but" and "However" have multiple words in Japanese.
+"but" and "however" have multiple words in Japanese.
 
 .. Note:: ga can also be used to say "but" or "however" this however is described in :ref:`Wa vs Ga<wa-vs-ga>`
 
