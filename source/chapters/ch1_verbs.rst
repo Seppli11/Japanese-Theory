@@ -40,3 +40,24 @@ This can't be done with every noun. Here is an (incomplete) list:
 + denwa = phone / call
 + renshu = practice
 + ryori = cooking / cuisine
+
+Imasu vs Arimasu (To Be, To Have, etc)
+--------------------------------------
+Both ``imasu`` and ``arimasu`` can be used to say that something exits or something
+will happen. The difference is that imasu is used with animate object while arimasu with
+inanimate object.
+
+As a general rule: If it can move on its own, use ``imasu`` else ``ariamsu``.
+
+| Asoko ni Neko ga imasu. = There is a cat over there (animate).
+| Neko **wa** asoko ni imasu. = The cat is over there.
+| Konbini ga arimasu. = There is a convenience store (inanimate).
+| Terebi ga arimasu. = (I) have a TV. / There is a TV.
+| Imoto ga imasu. = (I) have a younger sister. / There is a younger sister. (makes less sense)
+| Ashita tesuto ga arimasu. = There (will) be a test tomorrow.
+
+Depending on the context ``imasu`` and ``arimasu`` can say what you own/have, a "There is x" sentence
+or that something will happen in the future.
+
+Additionaly a place can be specified by placing ``<place> ni`` in the sentence. 
+(For more details see :ref:`Mark a Place <mark-a-place>`)

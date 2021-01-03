@@ -97,6 +97,16 @@ You can also mark the time in a sentence, as long it isn't a relative time prono
 
 | Shichi-ji ni ikimasu = (I will) go at seven o'clock
 
+.. _mark-a-place:
+Mark a Place
+____________
+If ``ni`` is placed at the start of a sentence, it indicates a location where the action takes place.
+``ni`` can also be placed in the middle. This changes the focus of the sentence as seen in the following example.
+
+| **Asoko ni** inu ga imasu. = There is a dog **over there**.
+| Inu wa **Asoko ni** imasu. = The dog is **over there**.
+| **Eki ni** keisatsukan ga imasu. = There is a policeman **at the train station**.
+
 To and Ya
 ---------
 In Japanese you use ``to`` and ``ya`` to say "and".
