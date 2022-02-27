@@ -8,6 +8,13 @@ The general structure of a sentence in Japanese is: ``<subject> <object> <verb>`
 To show which part of a sentence is what subject and objects are usually marked with particles
 like wa, ga, or, etc.
 
+No Particle
+-----------
+``no`` is the genitive particle and can combine multiple nouns. It is used like ``N1 no N2``. N2 belongs to N1.
+
+| watashi no kodomo = my child
+| IMC no kaishan = IMC employee
+
 
 .. _wa-vs-ga:
 
@@ -31,8 +38,7 @@ we usually do this by raising our voice.
 | 2. Sushi ga oishii desu. = **Sushi** is delicious. 
 
 In the first sentence the "delicious" part is important while in the second sentence
-the emphasizes is on sushi. 
-
+the emphasizes is on sushi.
 Ga as But
 _________
 ``ga`` if used in the middle of a sentence, means "but" or "however".
@@ -46,6 +52,12 @@ This can be useful in sentence where two things are compared like with "but" or 
 (see :ref:`But (or) However<but-or-however>` for "but" and "however" sentences)
 
 | Kocha wa nomimasu. Demo, kohi wa nomimasen = (I) drink tea. However, (I) don't drink coffee.
+
+Mo
+__
+``mo`` means *also/as well* and replaces the ``wa`` particle
+
+| Santou-san *mo* kaishan desu = Santou-san is also an employee.
 
 O Particle
 ----------
@@ -168,3 +180,15 @@ also mostly used in formal speech or writing.
 | Sushi wa tabemasu kedo, sakana wa tabemasen. = (I will) eat sushi but (I will) not eat fish.
 | Inaka wa shizuka desu kedo, fuben desu. = The countryside is quiet but (it) is inconvenient.
 | Inaka wa shizuka desu keredo, fuben desu. = The countryside is quiet but (it) is inconvenient. (formal)
+
+Demonstrativa-System
+--------------------
+
+================    ======================= =====================   =========================   ======================
+Description         Ko                      So                      A                           Do (Fragebegriffe) 
+================    ======================= =====================   =========================   ======================
+Objects             Kore (das hier)         Sore (das dort)         Are (dort drüben)           Dore (welches)
+People              Kono (dieses + Nomen)   Sono (Jenes + Nomen)    Ano (jenes dort + Nomen)    Dono (welche + Nomen)
+Place               Koko (hier)             Soko (dort)             Asoko (dort drüben)         Doko (wo)
+Direction, Place    Kochira                 Sochira                 Achira                      Dochira (wo/woher)
+================    ======================= =====================   =========================   ======================
